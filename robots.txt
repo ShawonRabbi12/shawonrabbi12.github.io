@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shawon-rabbi.github.io/sitemap.xml
+Sitemap: https://shawonrabbi12.github.io/sitemap.xml
